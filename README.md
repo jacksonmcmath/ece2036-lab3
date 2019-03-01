@@ -7,6 +7,7 @@ Usage
 Copy `main.cpp` into your project folder.
 
 In terminal or command prompt `cd` into your project directory and run the following code:
+
 `$ g++ -c main.cpp && g++ -c vector3.cpp && g++ -o main main.o vector3.o && ./main`
 
 I have tested this in terminal on macOS, but I have not tried this on a Windows machine (It should be pretty similar, I imagine).
